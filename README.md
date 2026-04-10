@@ -1,7 +1,7 @@
 ## Global Cholera Trends: A Statistical Analysis
 
 ### PROBLEM STATEMENT
-Despite global initiatives aiming to reduce cholera mortality to below 1%, the disease remains a significant public health threat.  This project seeks to uncover the patterns and trend of the cholera disease over time and to answer the question: Is there a measurable decline in the severity of outbreaks over time and does this decline vary significantly by WHO region? 
+Despite global initiatives aiming to reduce cholera mortality to below 1%, the disease remains a significant public health threat.  This project seeks to uncover the patterns and trend of the cholera disease over time and to answer the question: Is there a measurable decline in the severity of outbreaks over time, and is geography a definitive factor in an individual's chance of survival?
 
 ### WHY IS THIS PROBLEM IMPORTANT
 Cholera is a disease of inequity, acting as a marker of poverty, lack of social development, and inadequate access to basic services. Understanding where the disease is most lethal allows for the strategic allocation of resources. By analysing this dataset, we can identify the most vulnerable populations and  the regions that require more aggressive public health interventions
