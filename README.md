@@ -7,7 +7,7 @@ This project seeks to uncover the patterns and trend of the cholera disease over
 Despite global initiatives aiming to reduce cholera mortality to below 1%, the disease remains a significant public health threat. Cholera is a disease of inequity, acting as a marker of poverty, lack of social development, and inadequate access to basic services. Understanding where the disease is most lethal allows for the strategic allocation of resources. By analysing this dataset, we can identify the most vulnerable populations and  the regions that require more aggressive public health interventions
 
 ### ANALYTICAL OBJECTIVES
-- Baseline Characterization: Establish the cumulative global cases and deaths. Summarise the central tendency and spread of Case Fatality Rates for different regions. Identify extreme outlier events and regions where they occured.
+- Descriptive Analysis: Establish the cumulative global cases and deaths. Summarise the central tendency and spread of Case Fatality Rates for different regions. Identify extreme outlier events and regions where they occured.
 -	Trend Assessment: Determine if the global volume of cases and deaths is increasing, decreasing, or stagnating over the 67-year period.
 -	Statistical Inference: Compare the Case Fatality Rate (CFR) across regions to identify significant disparities in outbreak lethality.
 
@@ -33,7 +33,7 @@ Despite global initiatives aiming to reduce cholera mortality to below 1%, the d
    - Used Distributional Analysis (Boxplots) to compare regional survival disparities and identify outliers.
   
 4. Inferential Statistics
-   - Kruskal-Wallis Test: Applied as a non-parametric alternative to ANOVA, accounting for the skewed nature of epidemiological data.
+   - Kruskal-Wallis Test: Applied as a non-parametric alternative to ANOVA, accounting for the skewed nature of the data.
    - Dunn’s Post-Hoc Test: Conducted to pinpoint exactly which regional pairs exhibited statistically significant differences in survival.
 
 5. Tools & Environment
